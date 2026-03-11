@@ -1,4 +1,9 @@
+
 ## Hi there 👋
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F72E&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Developer;Future+DeepMind+Researcher" />
+
 
 <!--
 **V1ShAl1613/V1ShAl1613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
