@@ -1,10 +1,24 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF5555&center=true&vCenter=true&width=1200&lines=404:+Sleep+Not+Found;Fixing+1+Bug+Creating+10+More;Works+On+My+Machine;Google+Is+My+Senior+Developer;Currently+Fighting+A+Missing+Semicolon" />
+</p>
 
 
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1200&lines=Powered+By+Coffee;Running+On+3+Hours+Of+Sleep;Turning+Caffeine+Into+Code;Debugging+Life+One+Error+At+A+Time;Coffee+%3E+Documentation" />
+</p>
 
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=FF00FF&center=true&vCenter=true&width=1500&lines=PLAYER:+VISHAL+V;CLASS:+AI+ENGINEER;LEVEL:+GRINDING;HP:+100;MANA:+COFFEE;WEAPON:+PYTHON;BOSS:+DEADLINES" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=1400&lines=My+Cat+Reviews+My+Code;The+Cat+Usually+Wins;Human+By+Day+Debugger+By+Night;Professional+Keyboard+Abuser;Deploying+Hope+To+Production" />
+</p>
 
 
 
@@ -126,8 +140,8 @@
 
 <td width="35%" align="center">
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="380"/>
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+<br><br>
 <br><br>
 
 ### 😴 Status
@@ -274,8 +288,41 @@ Git • GitHub • GitLab • Figma • Postman • Linux • NPM • VS Code
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=V1ShAl1613&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=V1ShAl1613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://media.tenor.com/x8v1oNUOmg4AAAAC/rick-and-morty-mind-blown.gif" width="500"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://media.tenor.com/4YgGJQfZ8WQAAAAC/fire-fire-everywhere.gif" width="500"/>
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://media.tenor.com/KDk3K9J5p3gAAAAC/gigachad.gif" width="400"/>
+</p>
+
+<h2 align="center">😂 Developer Life</h2>
+
+<p align="center">
+  <img src="https://media.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="300"/>
+  <img src="https://media.tenor.com/KDk3K9J5p3gAAAAC/gigachad.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/coffee-anime.gif" width="300"/>
+  <img src="https://media.tenor.com/4YgGJQfZ8WQAAAAC/fire-fire-everywhere.gif" width="300"/>
+</p>
+
+<h3 align="center">
+  404: Sleep Not Found 💀<br>
+  Google Is My Senior Developer 🗿<br>
+  Deploying Hope To Production 🚀
+</h3>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -301,5 +348,9 @@ Git • GitHub • GitLab • Figma • Postman • Linux • NPM • VS Code
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=FF00FF&center=true&vCenter=true&width=1400&lines=PLAYER:+VISHAL+V;HP:+100;MANA:+COFFEE;LEVEL:+GRINDING;MISSION:+BUILD+THE+FUTURE;STATUS:+404+SLEEP+NOT+FOUND" />
 </p>
 
+
+<p align="center">
+  <img src="https://media.tenor.com/YUzRkMOL-3EAAAAC/coffee-anime.gif" width="450"/>
+</p>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
