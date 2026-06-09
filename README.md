@@ -1,11 +1,28 @@
+<!-- Animated Header -->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3F0M2JqY3Y3dXFvcmx3a3V4MzZpN2p2eW1zMjN4bDN0M2s2dGprZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=VISHAL+V;AI+%26+ML+ENGINEER;FULL+STACK+DEVELOPER;OPEN+SOURCE+CONTRIBUTOR;BUILDING+THE+FUTURE" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=VISHAL%20V&fontSize=70&color=0:00F7FF,100:8A2BE2&stroke=FFFFFF&strokeWidth=2&animation=twinkling" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
 </p>
 
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Software+Developer;Building+Futuristic+AI+Systems;Creating+Marvel-Level+Technology;Open+Source+Contributor;Future+Founder+%26+Innovator" />
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-f2f6f72d-5992-4e44-9f7d-0c5db2f4f8f1.gif" width="100%">
 </p>
+
+
+
+
+
+
 
 
 <p align="center">
