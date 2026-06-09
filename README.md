@@ -1,3 +1,19 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- Animated Header -->
 
 <p align="center">
@@ -12,6 +28,11 @@
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%">
 </p>
 
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF5555&center=true&vCenter=true&width=1200&lines=console.log('Hello+World');Works+On+My+Machine;99%25+Debugging+1%25+Coding;Student+Developer+Running+On+Pure+Hope;AI+Engineer+In+Progress" />
+</p>
 
 
 <p align="center">
@@ -34,14 +55,103 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749695-f2f6f72d-5992-4e44-9f7d-0c5db2f4f8f1.gif" width="100%">
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00FFAA&center=true&vCenter=true&width=1400&lines=Training+Models+%F0%9F%A4%96;Training+Myself+%F0%9F%A7%A0;Training+My+Cat+%F0%9F%90%B1;Building+AI+Agents;Trying+Not+To+Create+Skynet;404:+Sleep+Not+Found" />
+</p>
 
-# 💫 About Me:
-🔭 I’m currently working on<br><br> 🤖 Building AI Agents that can think, reason, and automate real-world tasks<br>🚀 Developing futuristic software projects inspired by sci-fi technology<br>⚡ Creating intelligent automation workflows with n8n<br>🌍 Contributing to open-source projects and leveling up every day<br><br>👯 I’m looking to collaborate on<br><br>🧠 AI & Machine Learning Projects<br>🤖 Agentic AI Systems<br> 🚀 Innovative Startups & SaaS Products<br>🌐 Open Source Projects that make an impact<br><br>🤝 I’m looking for help with<br><br>🧩 Large Language Models (LLMs)<br>☁️ Cloud & MLOps Engineering<br>📚 Research and Advanced AI Concepts<br>⚙️ Building scalable production-grade AI systems<br><br>🌱 I’m currently learning<br><br>🤖 Artificial Intelligence & Machine Learning<br>🧠 Deep Learning & Neural Networks<br>✨ Generative AI & Autonomous Agents<br>🏗️ System Design & Software Architecture<br>💻 Data Structures & Algorithms<br><br>💬 Ask me about<br><br> 🐍 Python<br> 📊 SQL & Databases<br>🔥 Firebase<br>🤖 Artificial Intelligence<br>⚡ Workflow Automation<br>🌐 Web Development<br>🚀 Open Source & Tech Careers<br><br>⚡ Fun fact<br><br> 🚀 My mission is to build technology that feels like it came straight out of a Marvel movie<br> 🤯 I turn "What if?" ideas into real projects<br> ☕ I convert caffeine into code and ideas into products<br> 🌌 Dreaming big enough to build the future, one commit at a time<br> 🎯 Currently chasing goals that sound impossible until they're done<br>
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+
+
+# 💫 About Me
+
+🔭 **I’m currently working on**
+
+🤖 Building AI Agents that can think, reason, and automate real-world tasks
+
+🚀 Developing futuristic software projects inspired by sci-fi technology
+
+⚡ Creating intelligent automation workflows with n8n
+
+🌍 Contributing to open-source projects and leveling up every day
+
+<br>
+
+👯 **I’m looking to collaborate on**
+
+🧠 AI & Machine Learning Projects
+
+🤖 Agentic AI Systems
+
+🚀 Innovative Startups & SaaS Products
+
+🌐 Open Source Projects that make an impact
+
+<br>
+
+🤝 **I’m looking for help with**
+
+🧩 Large Language Models (LLMs)
+
+☁️ Cloud & MLOps Engineering
+
+📚 Research and Advanced AI Concepts
+
+⚙️ Building scalable production-grade AI systems
+
+<br>
+
+🌱 **I’m currently learning**
+
+🤖 Artificial Intelligence & Machine Learning
+
+🧠 Deep Learning & Neural Networks
+
+✨ Generative AI & Autonomous Agents
+
+🏗️ System Design & Software Architecture
+
+💻 Data Structures & Algorithms
+
+<br>
+
+💬 **Ask me about**
+
+🐍 Python • 📊 SQL • 🔥 Firebase • 🤖 AI • ⚡ Automation • 🌐 Web Development
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="380"/>
+
+<br><br>
+
+### 😴 Status
+
+```text
+404: Sleep Not Found
+☕ Coffee Detected
+🤖 AI Agent Running
+🚀 Future Loading...
+```
+
+</td>
+</tr>
+</table>
+
+
 
 
 <p align="center">
-<img width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=FF00FF&center=true&vCenter=true&width=1400&lines=PLAYER:+VISHAL+V;HP:+100;MANA:+COFFEE;LEVEL:+GRINDING;MISSION:+BUILD+THE+FUTURE;STATUS:+404+SLEEP+NOT+FOUND" />
 </p>
+
+
+
 
 
 
@@ -187,7 +297,9 @@ Git • GitHub • GitLab • Figma • Postman • Linux • NPM • VS Code
 </p>
 
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=FF00FF&center=true&vCenter=true&width=1400&lines=PLAYER:+VISHAL+V;HP:+100;MANA:+COFFEE;LEVEL:+GRINDING;MISSION:+BUILD+THE+FUTURE;STATUS:+404+SLEEP+NOT+FOUND" />
+</p>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
